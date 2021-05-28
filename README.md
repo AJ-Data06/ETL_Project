@@ -1,9 +1,8 @@
 # ETL-Project
 Team Members:
 
-    1. Seng Heang Kim
-    2. An Nguyen
-    3. Anjana Bandara
+   
+    1. Anjana Bandara
 
 Project overview
 
