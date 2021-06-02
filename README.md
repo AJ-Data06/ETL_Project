@@ -1,8 +1,5 @@
 # ETL-Project
-Team Members:
-
-   
-    1. Anjana Bandara
+Anjana Bandara
 
 Project overview
 
