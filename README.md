@@ -1,3 +1,5 @@
+Please see the project report for detailed analyses on the dataset. @ETL Project Report.docx
+
 # ETL-Project
 Anjana Bandara
 
